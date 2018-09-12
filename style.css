@@ -1,0 +1,68 @@
+.top {
+    position:absolute;
+    background-color:#4087f9;
+    left:0; right:0; top: 0;
+    height: 80px;
+}
+.left {
+    position:absolute;
+    padding-top: 5px;
+    background-color: gray;
+    left:0; top:0; bottom: 0;
+    width: 100px;
+    
+}
+.main {
+    position: absolute;
+    left:178px; top:92px; right:0; bottom:0;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    padding-left: 1000px;
+    
+}
+
+.container {
+    padding-top: 200px;
+    padding-left: 15px;
+    color: white;
+    text-align: justify;
+}
+
+#list {
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 450px;
+}
+
+input {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.print {
+    padding-bottom: 5px;
+}
+.verify {
+    padding-bottom: 5px;
+}
+.lookup {
+    padding-bottom: 5px;
+}
+.contains {
+    padding-bottom: 5px;
+}
+.update {
+    padding-bottom: 5px;
+}
+.add {
+    padding-bottom: 5px;
+}
+.delete {
+    padding-bottom: 5px;
+}
